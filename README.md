@@ -7,11 +7,17 @@ microCMS と Next.js を使用して作成したキャラクターティアリ�
 
 ## 使用技術
 
-- Next.js (App Router)
-- TypeScript
-- microCMS
-- CSS Modules
-- next/image
+- Next.js（フレームワーク）
+  - プロジェクト作成時の設定
+    - TypeScript
+    - ESLint
+    - App Router
+  - スタイル設定
+    - globals.css
+    - CSS Modules（Scoped CSS）
+  - ルーティング（トップページ、下層ページ）
+
+- microCMS（データ保存）
 
 ---
 
