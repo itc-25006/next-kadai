@@ -2,6 +2,7 @@
 
 microCMS と Next.js を使用して作成したキャラクターティアリストアプリです。  
 キャラクターを S / A / B / C のティアごとに分類し、詳細ページで情報を確認できます。
+vercel:https://vercel.com/ryuseis-projects-0924cb86/next-kadai
 
 ---
 
